@@ -1,0 +1,15 @@
+@startuml lab-36-1
+
+class Redux << (P,yellow) Provider>> {
+  ~store
+}
+
+class App {
+  ==props==
+  # handleChange: function
+  # stuff: object
+}
+
+Redux <..> App
+
+@enduml

@@ -1,0 +1,23 @@
+@startuml lab-36-2
+
+class Redux << (P,yellow) Provider>> {
+  ~store
+}
+
+class App {
+  ==props==
+  # app: Object
+  # handleChange: function
+}
+
+class Number {
+  ==props==
+  # numbers: Object
+  # handleChange: function
+  # handleReset: function
+}
+
+Redux <..> App
+App --# Number
+
+@enduml
