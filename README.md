@@ -22,4 +22,4 @@
 
 ##### Assignement 2
 
-![lab-36-2](https://www.plantuml.com/plantuml/png/0/ZL3B2i8m4BpdAnPwKJ0zA7WeJQburz8_I9jLAsaIyl21wBVRbaeHF7ZQtHbsPdPpvxdrePKWUKLNQxeaf9RSEIXHX1kaASoAnHsbrDSv55PV6e4so-1105xEQula-LdP63FWZ1chZMEiwoFWnYImhyvO-s4-SIKaRhjon0GEGTM-qMfIsOMsGlj3I0s4-qTieafqwBzjnilYEEiJapurfT7eIqYEIdGFUGC0 'lab-36-2')
+![lab-36-2](https://www.plantuml.com/plantuml/png/0/ZL3B3e8m4BptApRXeebmqCG3eGJZNGb_KEYgcD8sVVY8qMyNK88c7ZpjpavsPcSpwvXnlX4WM1akbk6Sa4emQw50xY-G9339PrSKGfsda1jrgZcQD8KR0NXOfmoI-x2oqhgVKwgDqfRIjW-0QHt3jZnYvNfyO98BNBTbZp7ilAnShUIeil5DYUQ7aEm9-u_OI1LeqNtRl9D5KTfT_0bVrgJB4OR104c6ahSlUW80 'lab-36-2')
